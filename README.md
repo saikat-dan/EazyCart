@@ -1,1 +1,12 @@
 # EazyCart
+![Screenshot (66)](https://user-images.githubusercontent.com/82176451/225372156-215d3e8a-f0ae-4ab6-958b-00631cff8af6.png)
+![Screenshot (67)](https://user-images.githubusercontent.com/82176451/225372162-53bee03d-8c4c-46b0-b9ff-f65aa9cb8be0.png)
+![Screenshot (68)](https://user-images.githubusercontent.com/82176451/225372168-debb7e89-ac6e-4d36-afbd-6ddc3cd6fd7a.png)
+![Screenshot (69)](https://user-images.githubusercontent.com/82176451/225372175-723120a6-47ea-451f-876d-a55108dba51c.png)
+![Screenshot (70)](https://user-images.githubusercontent.com/82176451/225372177-fe073937-a2d8-434b-9155-8dc215416d87.png)
+![Screenshot (71)](https://user-images.githubusercontent.com/82176451/225372181-a6765e96-9499-42e9-90ce-f01e9e63317f.png)
+![Screenshot (72)](https://user-images.githubusercontent.com/82176451/225372190-21e9882b-d638-4c95-9e29-db34b8c5dc6b.png)
+![Screenshot (73)](https://user-images.githubusercontent.com/82176451/225372193-93bfdd55-8d2a-477a-a0e2-26f86ba7c52a.png)
+![Screenshot (74)](https://user-images.githubusercontent.com/82176451/225372198-6a197b04-7e88-4989-8624-42de0e63f125.png)
+![Screenshot (75)](https://user-images.githubusercontent.com/82176451/225372200-124928ed-9316-4229-a7da-930e0431bef1.png)
+![Screenshot (76)](https://user-images.githubusercontent.com/82176451/225372203-9b331d39-f485-4b4a-830c-7df003719fbc.png)
